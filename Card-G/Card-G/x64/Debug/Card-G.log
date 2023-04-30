@@ -1,0 +1,5 @@
+﻿  Steal.cpp
+  VirtualPlayer.cpp
+C:\Users\joel_\Documents\OO SYSTEMS DEVELOPMENT ASSIGNMENT\Source_Code\Card-G\Card-G\VirtualPlayer.cpp(38,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Card-G.vcxproj -> C:\Users\joel_\Documents\OO SYSTEMS DEVELOPMENT ASSIGNMENT\Source_Code\Card-G\x64\Debug\Card-G.exe
